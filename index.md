@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: null
 description: null
-image: images/image01.png
+image: assets/images/image01.png
 author: null
 show_tile: false
 ---
