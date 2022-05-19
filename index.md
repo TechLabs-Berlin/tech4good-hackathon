@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Tech 4 Good'
+landing-title: null
 description: null
-image: null
+image: images/image01.png
 author: null
 show_tile: false
 ---
