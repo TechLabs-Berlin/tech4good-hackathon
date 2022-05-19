@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Impressum
-landing-title: null
-description: null
-image: null
-author: null
-show_tile: true
+nav-menu: true
 ---
 # Impressum
 Angaben gem. § 5 TMG.
