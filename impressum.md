@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imprint
+title: Impressum
 landing-title: null
 description: null
 image: null
