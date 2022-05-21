@@ -32,17 +32,13 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 
 
 **What?** Data-driven innovation hackathon for data/computer science, business, engineering, and other students in general, who are interested!
-
-**Where?** In-Person, at the CET Dortmund location
-
+ß**Where?** In-Person, at the CET Dortmund location
 **When?** 17th-19th June 2022
-
-**How?**
+**How many?** Max. 60 participants
 <ul class="actions">
     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2tDdalzrrjpD36jojuFZdMIIvYG3mYrypHNnkI-fx11hEyQ/viewform?usp=sf_link" class="button next scrolly">Register here</a></li>
 </ul>
 
-**How many?** Max. 60 participants
 
 ### Preliminary Agenda:
 
@@ -66,5 +62,3 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 3pm: Project presentations  
 5pm: Winner announcement and Partner Speech  
 6pm: Closing event + Dinner  
-
-And this is the link to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSd2tDdalzrrjpD36jojuFZdMIIvYG3mYrypHNnkI-fx11hEyQ/viewform?usp=sf_link)
