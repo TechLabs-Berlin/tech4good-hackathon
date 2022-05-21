@@ -2,12 +2,11 @@
 title: About the Hackathon
 layout: details
 description: This year, we are finally organizing a global in-person hackathon, from the 17th to the 19th of June, under the topic “Tech4Good”.
-image: assets/images/image01.png
 nav-menu: true
 ---
 
 
-### What does “Tech4Godd” mean to us?
+### What does “Tech4Good” mean to us?
 We want to create solutions for the 99% and not just the 1%, creating value for everyone. Further, our solutions should address an actual and current issue, which we identified in all of our 3 subtopics you will find below. And lastly, we want our solutions to give power to the people and not to only an exclusive group of individuals.
 
 The TechLabs Hackathon is divided into 3 subtopics:
@@ -17,6 +16,8 @@ The TechLabs Hackathon is divided into 3 subtopics:
 
 To each of the subtopics we will present a challenge in the beginning of the hackathon. Afterwards, participants can choose one of them and start working on a solution.
 
+
+### Who can Applly?
 The hackathon is open to everybody who is eager to learn something new, work in a team and is generally interested in participating at this event, though there are some basic requirements we ask for. Having some (basic) experience and knowledge in working with coding languages and hacking tools as well as project management knowledge is recommended and will also make your life a lot easier. No worries if you are no professional Data Scientist – we will have mentors on site that are more than happy to help you out with any questions. Other than that, we are happy to welcome everyone who is ready for a small challenge in a dynamic and motivational environment!
 
 The teams will be formed of groups from 6-8 people, that provide complementary skills to work on a solution. Teams will be formed at the event, so no worries if you are planning to participate by yourself. We will further provide an open slack channel for participants to connect and get to know each other. As can be seen in the preliminary agenda below, we will also use the Friday evening to introduce the participants to each other and have a first relaxed get-together with some drinks.
@@ -36,32 +37,34 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 
 **When?** 17th-19th June 2022
 
-**How?** Register here: https://docs.google.com/forms/d/e/1FAIpQLSd2tDdalzrrjpD36jojuFZdMIIvYG3mYrypHNnkI-fx11hEyQ/viewform?usp=sf_link
+**How?**
+<ul class="actions">
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2tDdalzrrjpD36jojuFZdMIIvYG3mYrypHNnkI-fx11hEyQ/viewform?usp=sf_link" class="button next scrolly">Register here</a></li>
+</ul>
 
 **How many?** Max. 60 participants
 
-##### Preliminary Agenda:**
+### Preliminary Agenda:
 
-FRIDAY 17th:
-6pm: Techies arrive, network, get to know each other
-7pm: Welcome speech + Keynote speech + Topic presentation
-8pm: Techies connect and form groups
+#### FRIDAY 17th:
+6pm: Techies arrive, network, get to know each other  
+7pm: Welcome speech + Keynote speech + Topic presentation  
+8pm: Techies connect and form groups  
 
-SATURDAY 18th:
-9:00am: Breakfast
-10:30am: Ideation workshop
-11:30am: Start hacking phase
-1pm: Lunch
-2pm-7pm: Hacking phase with mentor support
-7pm: Dinner + Easy drinks
+#### SATURDAY 18th:
+9:00am: Breakfast  
+10:30am: Ideation workshop  
+11:30am: Start hacking phase  
+1pm: Lunch  
+2pm-7pm: Hacking phase with mentor support  
+7pm: Dinner + Easy drinks  
 
-SUNDAY 19th:
-9:00am: Breakfast
-10:30: Hacking phase and preparation for presentations
-1pm: Lunch + further preparation for presentation
-3pm: Project presentations
-5pm: Winner announcement and Partner Speech
-6pm: Closing event + Dinner (edited)
-3:47
+#### SUNDAY 19th:
+9:00am: Breakfast  
+10:30: Hacking phase and preparation for presentations  
+1pm: Lunch + further preparation for presentation  
+3pm: Project presentations  
+5pm: Winner announcement and Partner Speech  
+6pm: Closing event + Dinner  
 
 And this is the link to the [application form](https://docs.google.com/forms/d/e/1FAIpQLSd2tDdalzrrjpD36jojuFZdMIIvYG3mYrypHNnkI-fx11hEyQ/viewform?usp=sf_link)
