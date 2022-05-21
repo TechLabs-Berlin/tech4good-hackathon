@@ -1,9 +1,11 @@
 ---
-layout: details
 title: About the Hackathon
+layout: details
+description: This year, we are finally organizing a global in-person hackathon, from the 17th to the 19th of June, under the topic “Tech4Good”.
+image: assets/images/image01.png
 nav-menu: true
 ---
-This year, we are finally organizing a global in-person hackathon, from the 17th to the 19th of June, under the topic “Tech4Good”.
+
 
 ### What does “Tech4Godd” mean to us?
 We want to create solutions for the 99% and not just the 1%, creating value for everyone. Further, our solutions should address an actual and current issue, which we identified in all of our 3 subtopics you will find below. And lastly, we want our solutions to give power to the people and not to only an exclusive group of individuals.
