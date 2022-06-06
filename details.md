@@ -11,7 +11,7 @@ nav-menu: true
         <div class="column"><img src="assets/images/techies_muenster_2.jpg" width=250px></div>
         <div class="column"><img src="assets/images/techlabs_events_01.jpg" width=250px></div>
         <div class="column"><img src="assets/images/techlabs_events_02.jpg" width=250px></div>
-        <div class="column"><img src="assets/images/techlabs_events_03.jpg" width=250px></div>
+        <!-- <div class="column"><img src="assets/images/techlabs_events_03.jpg" width=250px></div> -->
     </div>
 </div>
 
