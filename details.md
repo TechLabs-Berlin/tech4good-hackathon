@@ -9,7 +9,7 @@ nav-menu: true
     <div class="row">
         <div class="column"><img src="assets/images/techies_muenster_1.jpg" width=200px/></div>
         <div class="column"><img src="assets/images/techies_muenster_2.jpg" width=200px></div>
-        <div class="column"><img src="assets/images/techies_events_01.heic" width=200px></div>
+        <div class="column"><img src="assets/images/techies_events_03.jpg" width=200px></div>
     </div>
 </div>
 
