@@ -76,3 +76,10 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 6pm: Closing event + Dinner  
 
 ### Partners and Sponsors
+<div class="center">
+    <div class="row">
+        <div class="column"><img src="assets/images/bitburger_logo.png" width=300px/></div>
+        <div class="column"><img src="assets/images/fairafric_logo.jpg" width=300px></div>
+        <div class="column"><img src="assets/images/koro_logo.webp" width=300px></div>
+    </div>
+</div>
