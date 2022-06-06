@@ -1,12 +1,19 @@
 ---
 title: About the Hackathon
 layout: details
-description: This year, we are finally organizing a global in-person hackathon, from the 17th to the 19th of June, under the topic “Tech4Good”.
+description: This year, we are finally organizing a global in-person hackathon, from the 17th to the 19th of June, under the topic “Tech For Good”.
 nav-menu: true
 ---
 
+<div class="center">
+    <div class="row">
+        <div class="column"><img src="assets/images/techies_muenster_1.jpg" width=200px/></div>
+        <div class="column"><img src="assets/images/techies_muenster_2.jpg" width=200px></div>
+        <div class="column"><img src="assets/images/techies_events_01.heic" width=200px></div>
+    </div>
+</div>
 
-### What does “Tech4Good” mean to us?
+### What does “Tech For Good” mean to us?
 We want to create solutions for the 99% and not just the 1%, creating value for everyone. Further, our solutions should address an actual and current issue, which we identified in all of our 3 subtopics you will find below. And lastly, we want our solutions to give power to the people and not to only an exclusive group of individuals.
 
 The TechLabs Hackathon is divided into 3 subtopics:
@@ -65,3 +72,5 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 3pm: Project presentations  
 5pm: Winner announcement and Partner Speech  
 6pm: Closing event + Dinner  
+
+### Partners and Sponsors
