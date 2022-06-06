@@ -55,25 +55,24 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 ### Preliminary Agenda:
 
 #### FRIDAY 17th:
-6pm: Techies arrive, network, get to know each other  
-7pm: Welcome speech + Keynote speech + Topic presentation  
-8pm: Techies connect and form groups  
+6pm: Arrival of participants  
+7pm: Welcome speech + Topic presentation  
+7:30pm: Getting to know each other and group formation  
 
 #### SATURDAY 18th:
-9:00am: Breakfast  
-10:30am: Ideation workshop  
-11:30am: Start hacking phase  
+9am: Breakfast  
+10am: Ideation workshop  
+11am: Start hacking phase  
 1pm: Lunch  
 2pm-7pm: Hacking phase with mentor support  
 7pm: Dinner + Easy drinks  
 
 #### SUNDAY 19th:
-9:00am: Breakfast  
-10:30: Hacking phase and preparation for presentations  
-1pm: Lunch + further preparation for presentation  
-3pm: Project presentations  
-5pm: Winner announcement and Partner Speech  
-6pm: Closing event + Dinner  
+9am: Breakfast  
+10: Hacking phase and preparation for presentations  
+12pm: Lunch + further preparation for presentation  
+2pm: Project presentations  
+4pm: Winner announcement Speech and Drinks  
 
 ### Partners and Sponsors
 <div class="center">
