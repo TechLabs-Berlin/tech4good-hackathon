@@ -74,6 +74,9 @@ If you feel inspired and interested in this experience, do not hesitate and sign
 2pm: Project presentations  
 4pm: Winner announcement Speech and Drinks  
 
+### About the Location
+The Centre for Entrepreneurship & Transfer (CET) at TU Dortmund University supports and accompanies start-ups in all phases, offers courses and workshops on the topics of entrepreneurship, technology and innovation and stimulates the transfer of technology and knowledge from science into practice. With our measures, we want to establish a new start-up spirit in Dortmund, the Westphalian Ruhrregion and South-Westphalia, strengthen the local innovative power and thus make the region sustainably fit for the future.
+
 ### Partners and Sponsors
 <div class="center">
     <div class="row">
