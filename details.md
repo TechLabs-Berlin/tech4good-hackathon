@@ -83,6 +83,6 @@ The Centre for Entrepreneurship & Transfer (CET) at TU Dortmund University suppo
         <div class="column"><img src="assets/images/bitburger_logo.png" width=300px/></div>
         <div class="column"><img src="assets/images/fairafric_logo.jpg" width=180px></div>
         <div class="column"><img src="assets/images/koro_logo.webp" width=300px></div>
-        <div class="column"><img src="assets/images/germantechjobs_logo.png" width=200px></div>
+        <div class="column"><a href="https://germantechjobs.de/en/jobs/Data/all"><img src="assets/images/germantechjobs_logo.png" width=200px></a></div>
     </div>
 </div>
